@@ -1,0 +1,344 @@
+[
+  {
+    "Id": 1985,
+    "First Name": "Mario",
+    "LastName": "Mario",
+    "Class": "BIOLOGY 101: Marine Life: 3"
+  },
+  {
+    "Id": 1985,
+    "First Name": "Mario",
+    "LastName": "Mario",
+    "Class": "MODERN MATH 101: Budgeting: 4"
+  },
+  {
+    "Id": 1985,
+    "First Name": "Mario",
+    "LastName": "Mario",
+    "Class": "CS 222: Video Game Production: 2"
+  },
+  {
+    "Id": 10652,
+    "First Name": "Rhys",
+    "LastName": "Davis",
+    "Class": "MATH 1050: Algebra: 2"
+  },
+  {
+    "Id": 10652,
+    "First Name": "Rhys",
+    "LastName": "Davis",
+    "Class": "MYTHOLOGY 240: Greek Mythology: 4"
+  },
+  {
+    "Id": 10652,
+    "First Name": "Rhys",
+    "LastName": "Davis",
+    "Class": "ENGINEERING 122: Trains!: 4"
+  },
+  {
+    "Id": 18758,
+    "First Name": "Isabella",
+    "LastName": "Mclain",
+    "Class": "SOCIAL STUDIES 323: Politics: 2"
+  },
+  {
+    "Id": 18758,
+    "First Name": "Isabella",
+    "LastName": "Mclain",
+    "Class": "HISTORY 304: European History: 4"
+  },
+  {
+    "Id": 18758,
+    "First Name": "Isabella",
+    "LastName": "Mclain",
+    "Class": "THEATER 101: Intro to Film: 2"
+  },
+  {
+    "Id": 17713,
+    "First Name": "Ariella",
+    "LastName": "Rigby",
+    "Class": "MINING 123: Intro to mining: 1"
+  },
+  {
+    "Id": 17713,
+    "First Name": "Ariella",
+    "LastName": "Rigby",
+    "Class": "HISTORY 302: American History: 2"
+  },
+  {
+    "Id": 17713,
+    "First Name": "Ariella",
+    "LastName": "Rigby",
+    "Class": "SCIENCE 450: Clouds: 2"
+  },
+  {
+    "Id": 5098,
+    "First Name": "Millie",
+    "LastName": "Joans",
+    "Class": "SCIENCE: Astronomy: 3"
+  },
+  {
+    "Id": 5098,
+    "First Name": "Millie",
+    "LastName": "Joans",
+    "Class": "SCIENCE: Potions: 2"
+  },
+  {
+    "Id": 5098,
+    "First Name": "Millie",
+    "LastName": "Joans",
+    "Class": "MAGIC: History of Magic: 2"
+  },
+  {
+    "Id": 8317,
+    "First Name": "Olivia",
+    "LastName": "Gatsby",
+    "Class": "MATH 420: DoobieDoobie: 3"
+  },
+  {
+    "Id": 8317,
+    "First Name": "Olivia",
+    "LastName": "Gatsby",
+    "Class": "EYEBROW ANALYSIS 1: Hair Inspection 1"
+  },
+  {
+    "Id": 8317,
+    "First Name": "Olivia",
+    "LastName": "Gatsby",
+    "Class": "WEB DESIGN 404: Computer Science 2"
+  },
+  {
+    "Id": 7334,
+    "First Name": "Lyla",
+    "LastName": "Sampson",
+    "Class": "MAGIC: transfiguration: 3"
+  },
+  {
+    "Id": 7334,
+    "First Name": "Lyla",
+    "LastName": "Sampson",
+    "Class": "MAGIC: Defense against the Dark Arts: 4"
+  },
+  {
+    "Id": 7334,
+    "First Name": "Lyla",
+    "LastName": "Sampson",
+    "Class": "MAGIC: Muggle Studies: 3"
+  },
+  {
+    "Id": 88,
+    "First Name": "Gianna",
+    "LastName": "Grady",
+    "Class": "GARDEN 101: Cannibus growing: 2"
+  },
+  {
+    "Id": 88,
+    "First Name": "Gianna",
+    "LastName": "Grady",
+    "Class": "GARDEN 202: Flowers: 3"
+  },
+  {
+    "Id": 88,
+    "First Name": "Gianna",
+    "LastName": "Grady",
+    "Class": "GARDEN 101:Herbology: 3"
+  },
+  {
+    "Id": 16943,
+    "First Name": "Everett",
+    "LastName": "Hoover",
+    "Class": "COOKING 424: meth: 2"
+  },
+  {
+    "Id": 16943,
+    "First Name": "Everett",
+    "LastName": "Hoover",
+    "Class": "FILM STUDIES: South Park: 4"
+  },
+  {
+    "Id": 16943,
+    "First Name": "Everett",
+    "LastName": "Hoover",
+    "Class": "VACUUMING 239: Vrrrrrrrrr: 4"
+  },
+  {
+    "Id": 15622,
+    "First Name": "Hudson",
+    "LastName": "Magill",
+    "Class": "NAMING THINGS 239: (not titled): 2"
+  },
+  {
+    "Id": 15622,
+    "First Name": "Hudson",
+    "LastName": "Magill",
+    "Class": "COOKING 458: Soup: 2"
+  },
+  {
+    "Id": 15622,
+    "First Name": "Hudson",
+    "LastName": "Magill",
+    "Class": "SOCIAL STUDIES 323: Politics: 2"
+  },
+  {
+    "Id": 6392,
+    "First Name": "Sienna",
+    "LastName": "Sorenson",
+    "Class": "ENGINEERING 234: Guns!: 4"
+  },
+  {
+    "Id": 6392,
+    "First Name": "Sienna",
+    "LastName": "Sorenson",
+    "Class": "BLACK MARKET ENGINEERING 333: Guns(illegal): 8"
+  },
+  {
+    "Id": 6392,
+    "First Name": "Sienna",
+    "LastName": "Sorenson",
+    "Class": "GEOLOGY 232: Texas: 4"
+  },
+  {
+    "Id": 10480,
+    "First Name": "Emerson",
+    "LastName": "Noserme",
+    "Class": "COOKING 458: Eggs: 10"
+  },
+  {
+    "Id": 10480,
+    "First Name": "Emerson",
+    "LastName": "Noserme",
+    "Class": "BIRD WATCHING: Life -10"
+  },
+  {
+    "Id": 10480,
+    "First Name": "Emerson",
+    "LastName": "Noserme",
+    "Class": "RASCAL HANDSHAKERY: Age: 4"
+  },
+  {
+    "Id": 15324,
+    "First Name": "Alice",
+    "LastName": "Angil",
+    "Class": "YOUTUBE: Youtube: 4"
+  },
+  {
+    "Id": 15324,
+    "First Name": "Alice",
+    "LastName": "Angil",
+    "Class": "ABC: Easy as: 123"
+  },
+  {
+    "Id": 15324,
+    "First Name": "Alice",
+    "LastName": "Angil",
+    "Class": "PSYCHOLOGY 293: Criminal Psychology: 4"
+  },
+  {
+    "Id": 9767,
+    "First Name": "Sharon",
+    "LastName": "Saville",
+    "Class": "MODERN MATH 239: Counting Money Like a Rich Man: 1"
+  },
+  {
+    "Id": 9767,
+    "First Name": "Sharon",
+    "LastName": "Saville",
+    "Class": "HUNTING: Bigfoot: 3"
+  },
+  {
+    "Id": 9767,
+    "First Name": "Sharon",
+    "LastName": "Saville",
+    "Class": "ENGINEERING 256: Cars!: 4"
+  },
+  {
+    "Id": 15507,
+    "First Name": "Thea",
+    "LastName": "Doshia",
+    "Class": "WRITING 228: Fanfiction: 10"
+  },
+  {
+    "Id": 15507,
+    "First Name": "Thea",
+    "LastName": "Doshia",
+    "Class": "WRITING 228: Avoiding a Mary Sue OC: 20"
+  },
+  {
+    "Id": 15507,
+    "First Name": "Thea",
+    "LastName": "Doshia",
+    "Class": "CS 222: Video Game Production: 2"
+  },
+  {
+    "Id": 19230,
+    "First Name": "Alma",
+    "LastName": "Young",
+    "Class": "JIBRASH 818: Regex: 4"
+  },
+  {
+    "Id": 19230,
+    "First Name": "Alma",
+    "LastName": "Young",
+    "Class": "DEVINE STUDIES 214: Salvation: 3"
+  },
+  {
+    "Id": 19230,
+    "First Name": "Alma",
+    "LastName": "Young",
+    "Class": "PROPER PAPER PLACEMENT 101: Cleaning: 2"
+  },
+  {
+    "Id": 18564,
+    "First Name": "Maverick",
+    "LastName": "Gun",
+    "Class": "GEOLOGY 232: Texas: 4"
+  },
+  {
+    "Id": 18564,
+    "First Name": "Maverick",
+    "LastName": "Gun",
+    "Class": "DRAWING 105: smut: 4"
+  },
+  {
+    "Id": 18564,
+    "First Name": "Maverick",
+    "LastName": "Gun",
+    "Class": "ART: war: 4"
+  },
+  {
+    "Id": 18620,
+    "First Name": "Raya",
+    "LastName": "Dagron",
+    "Class": "SCIENCE 101: Chemistry: 2"
+  },
+  {
+    "Id": 18620,
+    "First Name": "Raya",
+    "LastName": "Dagron",
+    "Class": "SCIENCE 101: marine biology: 3"
+  },
+  {
+    "Id": 18620,
+    "First Name": "Raya",
+    "LastName": "Dagron",
+    "Class": "SCIENCE 102: environmental science: 3"
+  },
+  {
+    "Id": 842,
+    "First Name": "Savannah",
+    "LastName": "Crawdad",
+    "Class": "TYPOGRAPHY IN NEW MEDIA: Foo 4"
+  },
+  {
+    "Id": 842,
+    "First Name": "Savannah",
+    "LastName": "Crawdad",
+    "Class": "WOODTASTING 101: Science 2"
+  },
+  {
+    "Id": 842,
+    "First Name": "Savannah",
+    "LastName": "Crawdad",
+    "Class": "ENGLISH 4: English 1"
+  }
+]
