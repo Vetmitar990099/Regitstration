@@ -1,7 +1,322 @@
-{
-"Firstname": "Samara",
-"LastName": "Howell",
-"FT/PT": "FT",
-"Credits": "14",
-"Classes": ["A 102","B 103","D 105"]
-}
+[
+  {
+    "id": "0001",
+    "Firstname": "Samara",
+    "LastName": "Howell",
+    "Classes": "C 104: 5"
+  },
+  {
+    "id": "0001",
+    "Firstname": "Samara",
+    "LastName": "Howell",
+    "Classes": "J 111: 5"
+  },
+  {
+    "id": "0001",
+    "Firstname": "Samara",
+    "LastName": "Howell",
+    "Classes": "A 102: 4"
+  },
+  {
+    "id": "0002",
+    "Firstname": "Kenna",
+    "LastName": "McKay",
+    "Classes": "A 102: 4"
+  },
+  {
+    "id": "0002",
+    "Firstname": "Kenna",
+    "LastName": "McKay",
+    "Classes": "C 104: 5"
+  },
+  {
+    "id": "0002",
+    "Firstname": "Kenna",
+    "LastName": "McKay",
+    "Classes": "D 105: 3"
+  },
+  {
+    "id": "0003",
+    "Firstname": "Darren",
+    "LastName": "Marsh",
+    "Classes": "J 111: 5"
+  },
+  {
+    "id": "0003",
+    "Firstname": "Darren",
+    "LastName": "Marsh",
+    "Classes": "F 107: 4"
+  },
+  {
+    "id": "0003",
+    "Firstname": "Darren",
+    "LastName": "Marsh",
+    "Classes": "A 102: 4"
+  },
+  {
+    "id": "0004",
+    "Firstname": "Hamza",
+    "LastName": "Mann",
+    "Classes": "I 110: 3"
+  },
+  {
+    "id": "0004",
+    "Firstname": "Hamza",
+    "LastName": "Mann",
+    "Classes": "J 111: 5"
+  },
+  {
+    "id": "0004",
+    "Firstname": "Hamza",
+    "LastName": "Mann",
+    "Classes": "C 104: 5"
+  },
+  {
+    "id": "0004",
+    "Firstname": "Hamza",
+    "LastName": "Mann",
+    "Classes": "B 103: 2"
+  },
+  {
+    "id": "0005",
+    "Firstname": "Mariana",
+    "LastName": "Ashley",
+    "Classes": "A 102: 4"
+  },
+  {
+    "id": "0005",
+    "Firstname": "Mariana",
+    "LastName": "Ashley",
+    "Classes": "B 103: 2"
+  },
+  {
+    "id": "0005",
+    "Firstname": "Mariana",
+    "LastName": "Ashley",
+    "Classes": "C 104: 5"
+  },
+  {
+    "id": "0005",
+    "Firstname": "Mariana",
+    "LastName": "Ashley",
+    "Classes": "J 111: 5"
+  },
+  {
+    "id": "0006",
+    "Firstname": "Ellis",
+    "LastName": "Brandt",
+    "Classes": "J 111: 5"
+  },
+  {
+    "id": "0006",
+    "Firstname": "Ellis",
+    "LastName": "Brandt",
+    "Classes": "C 104: 5"
+  },
+  {
+    "id": "0006",
+    "Firstname": "Ellis",
+    "LastName": "Brandt",
+    "Classes": "D 105: 3"
+  },
+  {
+    "id": "0006",
+    "Firstname": "Ellis",
+    "LastName": "Brandt",
+    "Classes": "A 102: 4"
+  },
+  {
+    "id": "0006",
+    "Firstname": "Ellis",
+    "LastName": "Brandt",
+    "Classes": "E 106: 2"
+  },
+  {
+    "id": "0007",
+    "Firstname": "Billy",
+    "LastName": "Miles",
+    "Classes": "J 111: 5"
+  },
+  {
+    "id": "0007",
+    "Firstname": "Billy",
+    "LastName": "Miles",
+    "Classes": "C 104: 5"
+  },
+  {
+    "id": "0007",
+    "Firstname": "Billy",
+    "LastName": "Miles",
+    "Classes": "A 102: 4"
+  },
+  {
+    "id": "0007",
+    "Firstname": "Billy",
+    "LastName": "Miles",
+    "Classes": "F 107: 4"
+  },
+  {
+    "id": "0008",
+    "Firstname": "Quentin",
+    "LastName": "Benjamin",
+    "Classes": "C 104: 5"
+  },
+  {
+    "id": "0008",
+    "Firstname": "Quentin",
+    "LastName": "Benjamin",
+    "Classes": "D 105: 3"
+  },
+  {
+    "id": "0008",
+    "Firstname": "Quentin",
+    "LastName": "Benjamin",
+    "Classes": "A 102: 4"
+  },
+  {
+    "id": "0009",
+    "Firstname": "Daniel",
+    "LastName": "Montoya",
+    "Classes": "C 104: 5"
+  },
+  {
+    "id": "0009",
+    "Firstname": "Daniel",
+    "LastName": "Montoya",
+    "Classes": "D 105: 3"
+  },
+  {
+    "id": "0009",
+    "Firstname": "Daniel",
+    "LastName": "Montoya",
+    "Classes": "J 111: 5"
+  },
+  {
+    "id": "0010",
+    "Firstname": "Izaiah",
+    "LastName": "Lambert",
+    "Classes": "C 104: 5"
+  },
+  {
+    "id": "0010",
+    "Firstname": "Izaiah",
+    "LastName": "Lambert",
+    "Classes": "J 111: 5"
+  },
+  {
+    "id": "0010",
+    "Firstname": "Izaiah",
+    "LastName": "Lambert",
+    "Classes": "A 102: 4"
+  },
+  {
+    "id": "0011",
+    "Firstname": "Ella",
+    "LastName": "James",
+    "Classes": "A 102: 4"
+  },
+  {
+    "id": "0011",
+    "Firstname": "Ella",
+    "LastName": "James",
+    "Classes": "B 103: 2"
+  },
+  {
+    "id": "0012",
+    "Firstname": "Leonard",
+    "LastName": "Brandt",
+    "Classes": "A 102: 4"
+  },
+  {
+    "id": "0012",
+    "Firstname": "Leonard",
+    "LastName": "Brandt",
+    "Classes": "F 107: 4"
+  },
+  {
+    "id": "0013",
+    "Firstname": "Serenity",
+    "LastName": "Chen",
+    "Classes": "D 105: 3"
+  },
+  {
+    "id": "0013",
+    "Firstname": "Serenity",
+    "LastName": "Chen",
+    "Classes": "E 106: 2"
+  },
+  {
+    "id": "0014",
+    "Firstname": "Shania",
+    "LastName": "Hamilton",
+    "Classes": "D 105: 3"
+  },
+  {
+    "id": "0014",
+    "Firstname": "Shania",
+    "LastName": "Hamilton",
+    "Classes": "I 110: 3"
+  },
+  {
+    "id": "0015",
+    "Firstname": "Adrien",
+    "LastName": "Fitzgerald",
+    "Classes": "G 108: 1"
+  },
+  {
+    "id": "0015",
+    "Firstname": "Adrien",
+    "LastName": "Fitzgerald",
+    "Classes": "E 106: 2"
+  },
+  {
+    "id": "0016",
+    "Firstname": "Kyra",
+    "LastName": "Lamb",
+    "Classes": "E 106: 2"
+  },
+  {
+    "id": "0017",
+    "Firstname": "Amaya",
+    "LastName": "Hudson",
+    "Classes": "H 109: 2"
+  },
+  {
+    "id": "0017",
+    "Firstname": "Amaya",
+    "LastName": "Hudson",
+    "Classes": "I 110: 3"
+  },
+  {
+    "id": "0018",
+    "Firstname": "Myla",
+    "LastName": "Strong",
+    "Classes": "B 103: 2"
+  },
+  {
+    "id": "0018",
+    "Firstname": "Myla",
+    "LastName": "Strong",
+    "Classes": "H 109: 2"
+  },
+  {
+    "id": "0019",
+    "Firstname": "Kyle",
+    "LastName": "Marquez",
+    "Classes": "G 108: 1"
+  },
+  {
+    "id": "0020",
+    "Firstname": "Aydan",
+    "LastName": "Olsen",
+    "Classes": "J 111: 5"
+  },
+  {
+    "id": "0020",
+    "Firstname": "Aydan",
+    "LastName": "Olsen",
+    "Classes": "H 109: 2"
+  }  
+]
+
+
