@@ -3,7 +3,7 @@ const fs = require('fs');
 
 // const password = require("./password.txt");
 
-function readFile(path, callback = ([]) => {}){
+export default function readFile(path, callback = ([]) => {}){
     console.group("importer/decryptor (Nathan)");
     
     
@@ -44,8 +44,10 @@ function readFile(path, callback = ([]) => {}){
     // callback(object);
 }
 
-readFile(process.argv[2], (data) => {
-    console.log("done");
-    console.log(data);
-});
+if(false && "usage:"){   
+    readFile(process.argv[2], (data) => {
+        console.log("done");
+        console.log(data);
+    });
+}
 
